@@ -1,2 +1,3 @@
 # odin-recipes2023
-recetas de comida
+Voy a hacer una pagina con unos platos de comida de Argentina tipicos. 
+Solamente usando HTML por ahora.
